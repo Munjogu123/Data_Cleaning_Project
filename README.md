@@ -1,0 +1,1 @@
+This Repository contains SQL queries used to data clean data from the "layoffs.csv" file. The project utilizes MySQL.
